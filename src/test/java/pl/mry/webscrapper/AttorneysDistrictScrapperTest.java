@@ -17,7 +17,7 @@ import java.util.List;
 import static pl.mry.webscrapper.enums.Browser.CHROME;
 import static pl.mry.webscrapper.enums.Browser.FIREFOX;
 
-public class CAttorneysDistrictScrapperTest {
+public class AttorneysDistrictScrapperTest {
 
     private String BASE_URL = "https://rejestradwokatow.pl/adwokat";
     private WebDriver driver;

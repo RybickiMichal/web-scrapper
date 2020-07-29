@@ -10,7 +10,7 @@ import pl.mry.webscrapper.enums.Browser;
 import static pl.mry.webscrapper.enums.Browser.CHROME;
 import static pl.mry.webscrapper.enums.Browser.FIREFOX;
 
-public class BMessageSender {
+public class MessageSender {
 
     private String BASE_URL = "https://profil.wp.pl/login.html?zaloguj=poczta";
     private WebDriver driver;

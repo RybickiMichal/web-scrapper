@@ -15,7 +15,7 @@ import java.time.Duration;
 import static pl.mry.webscrapper.enums.Browser.CHROME;
 import static pl.mry.webscrapper.enums.Browser.FIREFOX;
 
-public class ADownloadFile {
+public class DownloadFile {
     private String BASE_URL = "https://www.putty.org/";
     private WebDriver driver;
     private Browser browser = FIREFOX;
